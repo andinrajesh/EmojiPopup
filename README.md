@@ -6,8 +6,8 @@ Android Emoji library with Popup window.
 
 SampleCode
 ==========
-    EditText mEditEmojicon = new EditText();
-    TextView mTxtEmojicon = new TextView();
+    mEditEmojicon // Emoji Edittext
+    mTxtEmojicon // Emoji TextView
     EmojiPopup popup = new EmojiPopup(this);
 		popup.setHeight(400);
 		popup.setWidth(LayoutParams.MATCH_PARENT);
