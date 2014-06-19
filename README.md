@@ -1,10 +1,16 @@
 EmojiPopup
 ==========
 
-Android Emoji pop library. This is a modification of https://github.com/rockerhieu/emojicon library. 
-Removed the fragments and Added the Emoji as popup.
+Android Emoji library with Popup window.
 
 
 Screen Shot
 ===========
 ![Alt text](https://github.com/andinrajesh/EmojiPopup/blob/master/library/res/drawable-ldpi/Sample.png?raw=true "Optional Title")
+
+
+
+
+LibraryModified
+===============
+EmojiPopup is modification of https://github.com/rockerhieu/emojicon library.
